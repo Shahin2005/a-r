@@ -1,0 +1,4 @@
+HP10 LKA,BMW,X5,black,83456,10000,none,2,diesel,manual
+CP12 LKA,Vauxhall,corsa,grey,56901,3500,none,2,petrol,manual
+AH13 BJP,Ford,Focus,black,56673,14000,none,1,petrol,automatic
+HI19 LOP,Volvo,XC40,grey,25463,15000,none,1,diesel,automatic

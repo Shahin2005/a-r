@@ -1,0 +1,590 @@
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.carsale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.customer.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.Form1.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.manager.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.rental.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.Staff.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.carsale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.customer.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.Form1.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.manager.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.staffdetails.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.rental.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.Staff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-19\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.carsale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.customer.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.manager.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.staffForm.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-28\A and R automobiles\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.carsale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customer.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.manager.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.staffForm.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.carsale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customer.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.manager.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.staffForm.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.carsale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customer.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.manager.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.staffForm.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A2\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.carsale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2022-11-29\OneDrive_2022-11-29\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-21\A and R automobiles (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-28\A and R automobiles (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-04\project (2)\OneDrive_2023-01-31\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-11\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-14\A and R automobiles (2) (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-02-17\A and R automobiles (2) (1) (1)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-01\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-02\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-04\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-06\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.receipt.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-07\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.receipt.resources
+C:\Users\a13035\OneDrive - Joseph Chamberlain College\Desktop\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.receipt.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-09\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.receipt.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.AssemblyReference.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.receipt.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (1)\OneDrive_2023-03-11\A and R automobiles (2) (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe.config
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\bin\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.customerform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managestaff.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.receipt.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalform.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.rentalvehicels.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehicleinventory.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclepurchase.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.vehiclesale.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.welcome.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.managerportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Resources.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Staffportal.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.GenerateResource.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.vbproj.CoreCompileInputs.cache
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.exe
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.xml
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A and R automobiles.pdb
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.bookingorreturn.resources
+C:\Users\BAIZE\Downloads\OneDrive_2023-03-11 (2)\A and R automobiles (2)\A and R automobiles\obj\Debug\A_and_R_automobiles.Rentalreturn.resources

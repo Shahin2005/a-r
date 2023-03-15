@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F4F29A30-D5AC-4690-94BE-8570C4EF3D06}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>A_and_R_automobiles.My.MyApplication</StartupObject>
+    <RootNamespace>A_and_R_automobiles</RootNamespace>
+    <AssemblyName>A and R automobiles</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>A and R automobiles.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>A and R automobiles.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bookingorreturn.Designer.vb">
+      <DependentUpon>bookingorreturn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bookingorreturn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer.Designer.vb">
+      <DependentUpon>customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="managestaff.Designer.vb">
+      <DependentUpon>managestaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="managestaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="receipt.Designer.vb">
+      <DependentUpon>receipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rentalform.Designer.vb">
+      <DependentUpon>rentalform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rentalform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rentalreturn.Designer.vb">
+      <DependentUpon>Rentalreturn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rentalreturn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rentalvehicels.Designer.vb">
+      <DependentUpon>rentalvehicels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rentalvehicels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="variables.vb" />
+    <Compile Include="vehicleinventory.Designer.vb">
+      <DependentUpon>vehicleinventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vehicleinventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vehiclepurchase.Designer.vb">
+      <DependentUpon>vehiclepurchase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vehiclepurchase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vehiclesale.Designer.vb">
+      <DependentUpon>vehiclesale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vehiclesale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome.Designer.vb">
+      <DependentUpon>welcome.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="managerportal.Designer.vb">
+      <DependentUpon>managerportal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="managerportal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Staffportal.Designer.vb">
+      <DependentUpon>Staffportal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Staffportal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bookingorreturn.resx">
+      <DependentUpon>bookingorreturn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer.resx">
+      <DependentUpon>customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managestaff.resx">
+      <DependentUpon>managestaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="receipt.resx">
+      <DependentUpon>receipt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rentalform.resx">
+      <DependentUpon>rentalform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rentalreturn.resx">
+      <DependentUpon>Rentalreturn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rentalvehicels.resx">
+      <DependentUpon>rentalvehicels.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vehicleinventory.resx">
+      <DependentUpon>vehicleinventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vehiclepurchase.resx">
+      <DependentUpon>vehiclepurchase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vehiclesale.resx">
+      <DependentUpon>vehiclesale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome.resx">
+      <DependentUpon>welcome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="managerportal.resx">
+      <DependentUpon>managerportal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staffportal.resx">
+      <DependentUpon>Staffportal.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,3 @@
+scass12/,akhan5,AH13 BJP,12000,08 March 2023,cash,full payment,14000
+,scasd1,HP10 LKA,15000,11 March 2023,cash,full payment,10000
+,akhan5,DK16 LKP,15000,11 March 2023,cash,full payment,13500
